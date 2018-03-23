@@ -37,6 +37,7 @@
 
 import argparse
 
+import os, sys
 from iocp import Parser
 
 if __name__ == "__main__":
